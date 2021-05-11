@@ -1,3 +1,8 @@
+# Image Search Web Application
+
+## Description
+A simple toy project where the user can search and download free images to use anywhere.
+
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
 
 Below you will find some information on how to perform common tasks.<br>
